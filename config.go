@@ -12,10 +12,10 @@ import (
 	"go.uber.org/zap"
 
 	"github.com/open-telemetry/opentelemetry-collector-contrib/pkg/ottl"
-	"github.com/open-telemetry/opentelemetry-collector-contrib/processor/transformprocessor/internal/common"
-	"github.com/open-telemetry/opentelemetry-collector-contrib/processor/transformprocessor/internal/logs"
-	"github.com/open-telemetry/opentelemetry-collector-contrib/processor/transformprocessor/internal/metrics"
-	"github.com/open-telemetry/opentelemetry-collector-contrib/processor/transformprocessor/internal/traces"
+	"github.com/charan906/processor/internal/common"
+	"github.com/charan906/processor/internal/logs"
+	"github.com/charan906/processor/internal/metrics"
+	"github.com/charan906/processor/internal/traces"
 )
 
 var (
