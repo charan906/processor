@@ -1,4 +1,4 @@
-module github.com/charan906/customprocessor
+module github.com/charan906/processor
 
 go 1.22.0
 
