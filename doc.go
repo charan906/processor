@@ -5,4 +5,4 @@
 
 // Package transformprocessor contains the logic to execute telemetry transform based
 // on the OpenTelemetry Transformation Language.
-package transformprocessor // import "github.com/open-telemetry/opentelemetry-collector-contrib/processor/transformprocessor"
+package github.com/charan906/processor // import "github.com/open-telemetry/opentelemetry-collector-contrib/processor/transformprocessor"
