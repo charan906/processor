@@ -1,7 +1,7 @@
 // Copyright The OpenTelemetry Authors
 // SPDX-License-Identifier: Apache-2.0
 
-package github.com/charan906/processor
+package processor
 
 import (
 	"path/filepath"
